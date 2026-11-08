@@ -2,7 +2,7 @@
 // id: medal-clip
 // name: Medal Clip
 // version: 1.0.0
-// author: Capri fan
+// author: Palewoods
 // description: Say "clip that" and she presses your Medal clip hotkey, then checks the clip saved. Tells you if she can't.
 
 using System;
